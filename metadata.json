@@ -1,0 +1,6 @@
+{
+  "name": "Valence Synthesis",
+  "description": "Precision custom chemical synthesis, interactive stoichiometry bench, and GMP process development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
